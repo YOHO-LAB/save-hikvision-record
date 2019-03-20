@@ -121,7 +121,7 @@ int main(int argc, char *argv[])
   }
 
   //---------------------------------------
-  //开始下载
+  //start downloading
   if (TRUE != NET_DVR_PlayBackControl_V40(hPlayback, NET_DVR_PLAYSTART, NULL, 0, NULL, NULL))
   {
     printf("Play back control failed [%d]\n", NET_DVR_GetLastError());
