@@ -1,6 +1,6 @@
-# Save Hikvision record files
+# Save Hikvision Record Files
 
-Save record files by start time and end time from nvr.
+Save record files by start time and end time from hikvision nvr.
 
 ## How to compile
 
