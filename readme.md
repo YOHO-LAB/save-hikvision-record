@@ -32,6 +32,10 @@ source ~/.bashrc
 ./yohonvr [IP] [PORT] [USER] [PASSWORD]  [CHANNELNO.]   [START_TIMESTAMP]  [END_TIMESTAMP]  [SAVE_PATH]
 ```
 
+>
+> Please notice that hikvision  IPCamera's start channal number is 33.
+>
+
 
 ## Encode
 
